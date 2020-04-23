@@ -21,4 +21,4 @@ DWORD getWeChatInfo(HWND huwdlg);
 void EnumProcess(HWND huwdlg);
 DWORD addGoodsNumber(int number, HWND huwdlg);
 DWORD addGoodsDurable(int number, HWND huwdlg);
-VOID changeFastResearch(HWND huwdlg);
+VOID changeFastResearch(HWND huwdlg, char* fastResearchMem);
