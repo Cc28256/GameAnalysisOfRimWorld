@@ -1,19 +1,19 @@
 ﻿  stdafx.cpp
   CcDll.cpp
-g:\0word\ccdll\ccdll\ccdll.cpp(19): warning C4838: 从“int”转换到“char”需要收缩转换
-g:\0word\ccdll\ccdll\ccdll.cpp(19): warning C4309: “初始化”: 截断常量值
-g:\0word\ccdll\ccdll\ccdll.cpp(34): warning C4838: 从“int”转换到“char”需要收缩转换
-g:\0word\ccdll\ccdll\ccdll.cpp(34): warning C4309: “初始化”: 截断常量值
-g:\0word\ccdll\ccdll\ccdll.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
-g:\0word\ccdll\ccdll\ccdll.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
-g:\0word\ccdll\ccdll\ccdll.cpp(274): warning C4838: 从“int”转换到“char”需要收缩转换
-g:\0word\ccdll\ccdll\ccdll.cpp(274): warning C4309: “初始化”: 截断常量值
-g:\0word\ccdll\ccdll\ccdll.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
-g:\0word\ccdll\ccdll\ccdll.cpp(282): warning C4018: “<”: 有符号/无符号不匹配
+f:\0word\ccdll\ccdll\ccdll.cpp(19): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\0word\ccdll\ccdll\ccdll.cpp(19): warning C4309: “初始化”: 截断常量值
+f:\0word\ccdll\ccdll\ccdll.cpp(34): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\0word\ccdll\ccdll\ccdll.cpp(34): warning C4309: “初始化”: 截断常量值
+f:\0word\ccdll\ccdll\ccdll.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+f:\0word\ccdll\ccdll\ccdll.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+f:\0word\ccdll\ccdll\ccdll.cpp(282): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\0word\ccdll\ccdll\ccdll.cpp(282): warning C4309: “初始化”: 截断常量值
+f:\0word\ccdll\ccdll\ccdll.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+f:\0word\ccdll\ccdll\ccdll.cpp(290): warning C4018: “<”: 有符号/无符号不匹配
   dllmain.cpp
-g:\0word\ccdll\ccdll\dllmain.cpp(39): warning C4838: 从“int”转换到“char”需要收缩转换
-g:\0word\ccdll\ccdll\dllmain.cpp(39): warning C4309: “初始化”: 截断常量值
+f:\0word\ccdll\ccdll\dllmain.cpp(48): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\0word\ccdll\ccdll\dllmain.cpp(48): warning C4309: “初始化”: 截断常量值
   Hook.cpp
-g:\0word\ccdll\ccdll\hook.cpp(146): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PGoodsInfo”
+f:\0word\ccdll\ccdll\hook.cpp(146): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PGoodsInfo”
   正在生成代码...
-  CcDll.vcxproj -> G:\0word\CcDll\Debug\CcDll.dll
+  CcDll.vcxproj -> F:\0word\CcDll\Debug\CcDll.dll
