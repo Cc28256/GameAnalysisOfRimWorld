@@ -16,10 +16,14 @@
 #define IDI_TEST                        119
 #define MEMADDR_OF_RES                  1001
 #define IDC_BUTTON1                     1002
+#define IDC_FAST_RESEARCH               1002
 #define IDC_LIST1                       1003
+#define IDC_MAX_MOOD                    1004
 #define IDC_STATIC_S                    1005
+#define IDC_MAX_FOOD                    1006
 #define IDC_BUTTON_ADD100               1007
 #define IDC_NUMBER                      1008
+#define IDC_FAST_BUILD                  1008
 #define IDC_BUTTON_ADD10                1009
 #define IDC_BUTTON_ADD1000              1010
 #define IDC_PHONE_NUMBER                1011
@@ -32,7 +36,13 @@
 #define IDC_THIS_GOODS_ADDR             1017
 #define IDC_GOODS_NAME2                 1018
 #define IDC_FAST_JIANZAO                1018
+#define IDC_MAX_REST                    1019
 #define IDC_ZUOBIAO2                    1020
+#define IDC_MAX_JOY                     1021
+#define IDC_MAX_BEAUTY                  1022
+#define IDC_COMFORT                     1023
+#define IDC_MAX_COMFORT                 1023
+#define IDC_MAX_SPACE                   1024
 
 // Next default values for new objects
 // 

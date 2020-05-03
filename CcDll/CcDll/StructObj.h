@@ -50,3 +50,17 @@ typedef struct _MyGoods {
 	wchar_t* GoodName;		//物品名称
 }*PMyGoods,MyGoods;
 
+//当前的人物、快速研究建造的状态
+typedef struct _StateData {
+	bool comfort;
+	bool mood;
+	bool food;
+	bool rest;
+	bool joy;
+	bool beauty;
+	bool space;
+	bool research;
+	bool build;
+}*PtateData, StateData;
+
+
