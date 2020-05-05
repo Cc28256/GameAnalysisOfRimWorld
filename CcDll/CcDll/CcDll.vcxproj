@@ -169,6 +169,26 @@
     <ResourceCompile Include="CcDll.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="res\backdrop\backdrop.bmp" />
+    <Image Include="res\button_res\button_beauty_off.ico" />
+    <Image Include="res\button_res\button_beauty_on.ico" />
+    <Image Include="res\button_res\button_bulid_off.ico" />
+    <Image Include="res\button_res\button_bulid_on.ico" />
+    <Image Include="res\button_res\button_comfort_off.ico" />
+    <Image Include="res\button_res\button_comfort_on.ico" />
+    <Image Include="res\button_res\button_food_off.ico" />
+    <Image Include="res\button_res\button_food_on.ico" />
+    <Image Include="res\button_res\button_joy_off.ico" />
+    <Image Include="res\button_res\button_joy_on.ico" />
+    <Image Include="res\button_res\button_mood_off.ico" />
+    <Image Include="res\button_res\button_mood_on.ico" />
+    <Image Include="res\button_res\button_research_off.ico" />
+    <Image Include="res\button_res\button_research_on.ico" />
+    <Image Include="res\button_res\button_rest_off.ico" />
+    <Image Include="res\button_res\button_rest_on.ico" />
+    <Image Include="res\button_res\button_space_off.ico" />
+    <Image Include="res\button_res\button_space_on.ico" />
+    <Image Include="res\button_res\icon1.ico" />
     <Image Include="res\yaowu.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

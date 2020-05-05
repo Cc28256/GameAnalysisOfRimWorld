@@ -60,5 +60,65 @@
     <Image Include="res\yaowu.ico">
       <Filter>资源文件</Filter>
     </Image>
+    <Image Include="res\button_res\button_beauty_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_beauty_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_bulid_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_bulid_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_comfort_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_comfort_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_food_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_food_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_joy_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_joy_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_mood_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_mood_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_research_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_research_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_rest_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_rest_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_space_off.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\button_space_on.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\backdrop\backdrop.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\button_res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>
