@@ -14,10 +14,6 @@
 
 using namespace std;
 
-
-
-
-DWORD getWeChatInfo(HWND huwdlg);
 void EnumProcess(HWND huwdlg);
 DWORD addGoodsNumber(int number, HWND huwdlg);
 DWORD addGoodsDurable(int number, HWND huwdlg);
