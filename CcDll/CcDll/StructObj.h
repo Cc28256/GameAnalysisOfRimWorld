@@ -1,6 +1,7 @@
 #pragma once
 
-
+#define STATE_ON 0x1
+#define STATE_OFF 0x0
 
 typedef struct _GoodsString {
 	int unknown1;
@@ -49,4 +50,16 @@ typedef struct _MyGoods {
 	int GoodsDurable;		//物品耐久
 	wchar_t* GoodName;		//物品名称
 }*PMyGoods,MyGoods;
+
+//当前的人物的状态
+typedef struct _StateData {
+	int mood;
+	int food;
+	int rest;
+	int joy;
+	int beauty;
+	int space;
+	int comfort;
+}*PStateData, StateData;
+
 

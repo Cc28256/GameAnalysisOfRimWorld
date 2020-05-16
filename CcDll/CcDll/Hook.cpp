@@ -149,7 +149,7 @@ void GoodsOperator(DWORD goodsStrAddr)
 		free(GoodsName);
 		GoodsName = NULL;
 	}
-	
+	return;
 }
 
 

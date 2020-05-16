@@ -14,11 +14,10 @@
 
 using namespace std;
 
-
-
-
-DWORD getWeChatInfo(HWND huwdlg);
 void EnumProcess(HWND huwdlg);
 DWORD addGoodsNumber(int number, HWND huwdlg);
 DWORD addGoodsDurable(int number, HWND huwdlg);
-VOID changeFastResearch(HWND huwdlg, char* fastResearchMem);
+VOID ChangeFastBulid();
+VOID ChangeFastResearch(HWND huwdlg, char* fastResearchMem);
+bool ChangePeopleMem(char* changePeopleMem);
+void ChangePeopleState(char* changePeopleMem, PStateData peopleState,DWORD isFlage);
